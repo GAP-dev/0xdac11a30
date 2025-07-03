@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/gap_dev/0xdac11a30/mac_os_dyld_cache_extractor",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -O2 -g -DNDEBUG -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -g -Wall -Wextra -o CMakeFiles/dyld-shared-cache-extractor.dir/dyld-shared-cache-extractor.c.o -c /Users/gap_dev/0xdac11a30/mac_os_dyld_cache_extractor/dyld-shared-cache-extractor.c",
+  "file": "/Users/gap_dev/0xdac11a30/mac_os_dyld_cache_extractor/dyld-shared-cache-extractor.c",
+  "output": "CMakeFiles/dyld-shared-cache-extractor.dir/dyld-shared-cache-extractor.c.o"
+}
+]
