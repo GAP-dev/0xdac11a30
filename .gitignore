@@ -4,3 +4,4 @@ harness/imageio_trans/harness
 fuzzer_discord_notification/.seen_files.tmp
 mac_os_mitigation_test/uaf
 harness/model_3d/imageio_harness
+.DS_Store
